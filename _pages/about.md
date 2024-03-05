@@ -18,5 +18,3 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student at Arizona State University. I work at the intersection of Power Systems and Machine Learning. Check out my latest work on the publications tab. If you are interested in collaboration or wish to discuss related topics, feel free to reach out to me at <a href='#'>antoscvarghese@gmail.com</a>. Looking forward to engaging in thought-provoking exchanges and potential partnerships!  
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
