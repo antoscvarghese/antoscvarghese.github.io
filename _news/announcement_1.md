@@ -2,7 +2,7 @@
 layout: post
 title: Paper accepted for publication in the Journal of MPCE
 date: 2024-02-23 15:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
