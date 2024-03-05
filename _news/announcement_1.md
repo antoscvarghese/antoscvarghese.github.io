@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-02-23 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper titled "Time-Synchronized Full System State Estimation Considering Practical Implementation Challenges" has been accepted for publications on Journal of Modern Power Systems and Clean Energy (MPCE). This paper introduces a deep neural network based solution for accurately estimating the states while adressing the PMU non-observability issues at lower voltage levels of transmission systems.
