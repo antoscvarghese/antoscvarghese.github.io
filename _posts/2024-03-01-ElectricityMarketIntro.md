@@ -2,7 +2,7 @@
 layout: post
 title: Electricity Markets - A Gentle Intro
 date: 2024-03-01 11:12:00-0400
-description: Introduction to Electricity Markets
+description: Introduction to Electricity Market
 tags: formatting math
 categories: sample-posts
 related_posts: false
