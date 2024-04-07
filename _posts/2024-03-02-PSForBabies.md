@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Power Systems for Babies
-date: 2024-03-01 11:12:00-0400
+date: 2024-03-02 11:12:00-0400
 description: A few concepts of power systems in layman's language
 tags: formatting math
 categories: sample-posts
